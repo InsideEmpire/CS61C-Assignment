@@ -44,6 +44,7 @@ You can fork this repository to create your own working environment, track your 
 ### Notes
 - Ensure you have the necessary tools installed, such as **gcc** or **clang** for compiling C code and a make tool for running tests.
 - Use a text editor like VS Code, Sublime Text, or Vim for an enhanced coding experience.
+- [Here](tools/tutorial.md) is a tutorial about how to set up an environment for Venus and Logisim. **Don't use the old `.jar` file that comes with Lab or Project.**
 
 ### Disclaimer
 - This repository is **unofficial** and is not affiliated with or endorsed by UC Berkeley or the CS61C teaching team.
@@ -89,6 +90,7 @@ You can fork this repository to create your own working environment, track your 
 ### 注意事项
 - 确保您的系统已安装 C 编译器（如 **gcc** 或 **clang**）以及 `make` 工具。
 - 推荐使用 VS Code、Sublime Text 或 Vim 等代码编辑器，提升编程体验。
+- 这是一份如何配置Venus和Logisim环境的[教程](tools/tutorial.md)。**请不要使用附带的`.jar`文件。**
 
 ### 免责声明
 - 本仓库为 **非官方** 项目，与 UC Berkeley 及 CS61C 教学团队无关。
